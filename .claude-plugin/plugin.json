@@ -1,0 +1,1 @@
+{ "name": "usage-bar", "version": "0.1.0", "description": "Shows 5-hour and weekly usage limits with the current model above the prompt, with one-press model switching.", "author": { "name": "iamromelalvin7" }, "license": "MIT", "types": "./types/index.d.ts" }
